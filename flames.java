@@ -1,5 +1,5 @@
-package June;
-import java.util.*;
+
+import java.util.Scanner;
 
 public class flames {
 	//flames fun = new flames();
