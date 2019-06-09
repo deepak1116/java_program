@@ -1,8 +1,6 @@
-
 import java.util.Scanner;
 
 public class flames {
-	//flames fun = new flames();
 	public static void main(String args[])
 	{
 		Scanner sc = new Scanner(System.in);
@@ -72,12 +70,4 @@ public class flames {
 		}
 		return arr[0];
 	}
-	public static void printarr(char[] arr)
-	{
-		for(int i=0;i<arr.length;i++)
-		{
-			System.out.print(arr[i]+" ");
-		}
-	}
-
 }
