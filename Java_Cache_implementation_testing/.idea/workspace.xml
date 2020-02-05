@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23204fba-ab5c-45f6-9bed-e247d486734c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="InstancesTracker">
+    <option name="classes">
+      <map>
+        <entry key="com.deepak.LFUCacheCSV.LFUCache" value="CREATION" />
+        <entry key="com.deepak.LFUCacheCSV.Node" value="CREATION" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XHpVQJUu5g8DoQi96QtRTOsoNU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/deepak/memorysize/InstrumentationAgent.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.LFUCacheCSVTest">
+    <configuration name="InstrumentationAgentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deepak.memorysize.InstrumentationAgentExample" />
+      <module name="Java_Cache_implementation_testing" />
+      <option name="VM_PARAMETERS" value="-javaagent:&quot;D:\IntellijProjects\Java_Cache_implementation_testing\src\com\deepak\memorysize\InstrumentationAgent.jar&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deepak.memorysize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LFUCacheAlgoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deepak.LFUCache.LFUCacheAlgoTest" />
+      <module name="Java_Cache_implementation_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deepak.LFUCache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LFUCacheCSVTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deepak.LFUCacheCSV.LFUCacheCSVTest" />
+      <module name="Java_Cache_implementation_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deepak.LFUCache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LRUCacheCSVTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deepak.LRUCacheCSVTest.LRUCacheCSVTest" />
+      <module name="Java_Cache_implementation_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deepak.LRUCacheCSVTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LRUCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deepak.LRUCache.LRUCacheTest" />
+      <module name="Java_Cache_implementation_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deepak.LRUCache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.InstrumentationAgentExample" />
+      <item itemvalue="Application.LFUCacheAlgoTest" />
+      <item itemvalue="Application.LFUCacheCSVTest" />
+      <item itemvalue="Application.LRUCacheTest" />
+      <item itemvalue="Application.LRUCacheCSVTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LFUCacheCSVTest" />
+        <item itemvalue="Application.LRUCacheCSVTest" />
+        <item itemvalue="Application.LFUCacheAlgoTest" />
+        <item itemvalue="Application.LRUCacheTest" />
+        <item itemvalue="Application.InstrumentationAgentExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23204fba-ab5c-45f6-9bed-e247d486734c" name="Default Changelist" comment="" />
+      <created>1580712897106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580712897106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="599" y="268" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1580741323622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="268" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1536.824@0.0.1536.824" timestamp="1580741323622" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580791147455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580791147455" />
+    <state x="548" y="118" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1580733166258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="118" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1580733166258" />
+    <state x="399" y="150" key="#com.intellij.ide.util.ExportDialog" timestamp="1580741213240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="150" key="#com.intellij.ide.util.ExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1580741213240" />
+    <state x="314" y="168" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1580816943252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="314" y="168" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1536.824@0.0.1536.824" timestamp="1580816943252" />
+    <state x="665" y="166" key="#xdebugger.XInspectDialog" timestamp="1580741314657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="665" y="166" key="#xdebugger.XInspectDialog/0.0.1536.824@0.0.1536.824" timestamp="1580741314657" />
+    <state x="554" y="154" key="FileChooserDialogImpl" timestamp="1580733005034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="554" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580733005034" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1580819530126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580819530126" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1580819530126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580819530126" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1580819530126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580819530126" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1580819530126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580819530126" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580817372425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580817372425" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1580817372425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580817372425" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1580817372425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580817372425" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1580817372425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580817372425" />
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom" timestamp="1580741223011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580741223011" />
+    <state width="1493" height="261" key="GridCell.Tab.2.center" timestamp="1580741223011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1580741223011" />
+    <state width="1493" height="261" key="GridCell.Tab.2.left" timestamp="1580741223011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1580741223011" />
+    <state width="1493" height="261" key="GridCell.Tab.2.right" timestamp="1580741223011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1580741223011" />
+    <state width="1493" height="261" key="GridCell.Tab.3.bottom" timestamp="1580741233279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580741233279" />
+    <state width="1493" height="261" key="GridCell.Tab.3.center" timestamp="1580741233279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1580741233279" />
+    <state width="1493" height="261" key="GridCell.Tab.3.left" timestamp="1580741233278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1580741233278" />
+    <state width="1493" height="261" key="GridCell.Tab.3.right" timestamp="1580741233279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1580741233279" />
+    <state x="277" y="55" width="1145" height="713" key="SettingsEditor" timestamp="1580741187745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" width="1145" height="713" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580741187745" />
+    <state x="463" y="144" width="611" height="536" key="find.popup" timestamp="1580819778975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580819778975" />
+    <state x="209" y="33" key="new project wizard" timestamp="1580732042651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580732042651" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580809400045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580809400045" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/deepak/LFUCacheCSV/LFUCacheCSVTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/deepak/LFUCacheCSV/LFUCacheCSVTest.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/deepak/LFUCache/LFUCacheAlgoTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
