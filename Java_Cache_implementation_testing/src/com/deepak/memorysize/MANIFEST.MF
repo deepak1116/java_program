@@ -1,0 +1,2 @@
+Premain-class: com.deepak.memorysize.InstrumentationAgent
+
